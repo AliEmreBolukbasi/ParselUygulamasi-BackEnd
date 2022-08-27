@@ -1,0 +1,15 @@
+C:\Users\aliem\source\repos\parseluygulamasi\parseluygulamasi.Entities\bin\Debug\net5.0\parseluygulamasi.Entities.deps.json
+C:\Users\aliem\source\repos\parseluygulamasi\parseluygulamasi.Entities\bin\Debug\net5.0\parseluygulamasi.Entities.runtimeconfig.json
+C:\Users\aliem\source\repos\parseluygulamasi\parseluygulamasi.Entities\bin\Debug\net5.0\parseluygulamasi.Entities.runtimeconfig.dev.json
+C:\Users\aliem\source\repos\parseluygulamasi\parseluygulamasi.Entities\bin\Debug\net5.0\parseluygulamasi.Entities.dll
+C:\Users\aliem\source\repos\parseluygulamasi\parseluygulamasi.Entities\bin\Debug\net5.0\ref\parseluygulamasi.Entities.dll
+C:\Users\aliem\source\repos\parseluygulamasi\parseluygulamasi.Entities\bin\Debug\net5.0\parseluygulamasi.Entities.pdb
+C:\Users\aliem\source\repos\parseluygulamasi\parseluygulamasi.Entities\obj\Debug\net5.0\parseluygulamasi.Entities.csproj.AssemblyReference.cache
+C:\Users\aliem\source\repos\parseluygulamasi\parseluygulamasi.Entities\obj\Debug\net5.0\parseluygulamasi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliem\source\repos\parseluygulamasi\parseluygulamasi.Entities\obj\Debug\net5.0\parseluygulamasi.Entities.AssemblyInfoInputs.cache
+C:\Users\aliem\source\repos\parseluygulamasi\parseluygulamasi.Entities\obj\Debug\net5.0\parseluygulamasi.Entities.AssemblyInfo.cs
+C:\Users\aliem\source\repos\parseluygulamasi\parseluygulamasi.Entities\obj\Debug\net5.0\parseluygulamasi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\aliem\source\repos\parseluygulamasi\parseluygulamasi.Entities\obj\Debug\net5.0\parseluygulamasi.Entities.dll
+C:\Users\aliem\source\repos\parseluygulamasi\parseluygulamasi.Entities\obj\Debug\net5.0\ref\parseluygulamasi.Entities.dll
+C:\Users\aliem\source\repos\parseluygulamasi\parseluygulamasi.Entities\obj\Debug\net5.0\parseluygulamasi.Entities.pdb
+C:\Users\aliem\source\repos\parseluygulamasi\parseluygulamasi.Entities\obj\Debug\net5.0\parseluygulamasi.Entities.genruntimeconfig.cache
